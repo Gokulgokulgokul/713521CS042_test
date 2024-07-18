@@ -1,0 +1,32 @@
+.about{
+    color: white;
+    font-family: monospace;
+    width: 80%;
+    text-align: justify;
+    margin: 3vh auto 3vh auto;
+    font-size: 16px;
+    text-transform: capitalize;
+}
+.about h2{
+    margin: 5vh 0 0 0;
+    color: tomato;
+}
+.footer {
+    margin-top: 5vh;
+    height: 15vh;
+    width: 100%;
+    background-color: rgb(64, 64, 64);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.footer p {
+    color: rgb(235, 235, 235);
+    text-align: center;
+    margin-top: 5vh;
+}
+body{
+    background-color: black;
+}
